@@ -1,6 +1,8 @@
-# Welcome to Budgetocity!
+---
+description: Budgeting with a twist.
+---
 
-### Budgeting with a twist.
+# Welcome to Budgetocity!
 
 **Budgetocity** offers a unique experience for helping you manage your budget.  While most budgeting software will budget from month-to-month, **Budgetocity** gives you the option to budget based on how frequently you are paid.
 
@@ -18,17 +20,17 @@ Budgetocity offers a variety of tools to help you get control of your money.  Th
 
 _Here are some highlights of the other features you will find in Budgetocity..._
 
-### Planning
+#### Planning
 
 You can enter all your monthly expenses regardless of your budgeting plan.  Armed with your expense information, Budgetocity can help you ensure that every bill gets paid.
 
 As a bonus to those who budget every 4-weeks, you will discover that some expenses "fall between" budget periods.  This is literally free money that you can use for paying off debt, saving for a vacation, etc.
 
-### Budget Summary
+#### Budget Summary
 
 If you budget with a significant-other, you need to stay informed of your more fluid expenses, like groceries or gas money.  The summary gives you the ability to choose what you want to quickly see when you start Budgetocity.
 
-### Tagging
+#### Tagging
 
 Tagging is an advanced feature of Budgetocity that allows you to apply tags to your spending.  While each spending transaction has a "category", tags provide an additional dimension to your organization.  Tagging is useful for folks that use multiple credit/debit cards or accounts to pay for items, but want to maintain a zero-based budget.
 
