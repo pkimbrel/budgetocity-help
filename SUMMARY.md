@@ -2,7 +2,7 @@
 
 * [Welcome to Budgetocity!](README.md)
 * [Budget Periods](budget-periods.md)
-* Registering
+* [Registering](registering.md)
 * Budgeting
 * Spending
 * Planning
