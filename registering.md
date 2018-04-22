@@ -1,8 +1,4 @@
----
-description: Registration Info
----
-
-# Registering
+# Signing Up
 
 Info here
 

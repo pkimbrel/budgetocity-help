@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Welcome to Budgetocity!](README.md)
-* [Welcome to Budgetocity!](README.md)
+* [Welcome to Budgetocity!](welcome-to-budgetocity-1.md)
 * [Budget Periods](budget-periods.md)
-* [Registering](registering.md)
+* [Signing Up](registering.md)
 * Budgeting
 * Spending
 * Planning
