@@ -24,13 +24,13 @@ _Here are some highlights of the other features you will find in Budgetocity..._
 
 ### Planning
 
+If you budget with a significant-other, you need to stay informed of your more fluid expenses, like groceries or gas money. The summary gives you the ability to choose what you want to quickly see when you start Budgetocity.
+
+### Summary
+
 You can enter all your monthly expenses regardless of your budgeting plan. Armed with your expense information, Budgetocity can help you ensure that every bill gets paid.
 
 As a bonus to those who budget every 4-weeks, you will discover that some expenses "fall between" budget periods. This is literally free money that you can use for paying off debt, saving for a vacation, etc.
-
-### Budget Summary
-
-If you budget with a significant-other, you need to stay informed of your more fluid expenses, like groceries or gas money. The summary gives you the ability to choose what you want to quickly see when you start Budgetocity.
 
 ### Tagging
 
