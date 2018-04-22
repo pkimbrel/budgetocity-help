@@ -5,7 +5,7 @@
 * [Budget Periods](budget-periods.md)
 * [Signing Up](registering.md)
 * Budgeting
-* Tracking Your Spending
+* Spending
 * Planning
 * Tagging
 
