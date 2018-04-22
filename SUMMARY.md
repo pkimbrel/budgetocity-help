@@ -2,8 +2,10 @@
 
 * [Welcome to Budgetocity!](README.md)
 * [Welcome to Budgetocity!](welcome-to-budgetocity-1.md)
-* [Budget Periods](budget-periods/README.md)
-  * [Signing Up](budget-periods/registering.md)
+* Getting Started
+  * [Signing Up](getting-started/registering.md)
+  * [Budget Periods](getting-started/budget-periods.md)
+  * Categories
 * Budgeting
 * Spending
 * Planning
