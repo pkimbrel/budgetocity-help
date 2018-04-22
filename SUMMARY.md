@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome to Budgetocity!](README.md)
-* [Home](README.md)
+* [Welcome to Budgetocity!](README.md)
 * [Budget Periods](budget-periods.md)
 * [Registering](registering.md)
 * Budgeting
