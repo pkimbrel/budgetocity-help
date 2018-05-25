@@ -4,6 +4,8 @@ description: Budgeting with a twist.
 
 # Welcome to Budgetocity!
 
+## Overview
+
 **Budgetocity** offers a unique experience for helping you manage your budget. While most budgeting software will budget from month-to-month, **Budgetocity** gives you the option to budget based on how frequently you are paid.
 
 If you're paid monthly, you can budget monthly. However...
