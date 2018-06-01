@@ -1,10 +1,10 @@
 ---
-description: Budgeting with a twist.
+description: Presupuestar con un Giro™
 ---
 
 # Bienvenido a Budgetocity!
 
-## Visión general
+## ¿Qué es Budgetocity?
 
 **Budgetocity** ofrece una experiencia única para ayudarlo a administrar su presupuesto. Mientras que la mayoría del software de presupuesto se presupuestará de mes a mes, **Budgetocity** le ofrece la opción de presupuestar según la frecuencia con la que le pagan.
 
