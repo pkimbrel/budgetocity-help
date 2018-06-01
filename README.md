@@ -6,33 +6,33 @@ description: Budgeting with a twist.
 
 ## Visión general
 
-**Budgetocity** offers a unique experience for helping you manage your budget. While most budgeting software will budget from month-to-month, **Budgetocity** gives you the option to budget based on how frequently you are paid.
+**Budgetocity** ofrece una experiencia única para ayudarlo a administrar su presupuesto. Mientras que la mayoría del software de presupuesto se presupuestará de mes a mes, **Budgetocity** le ofrece la opción de presupuestar según la frecuencia con la que le pagan.
 
-If you're paid monthly, you can budget monthly. However...
+Si le pagan mensualmente, puede hacer un presupuesto mensual. Sin embargo...
 
-If you're paid bi-weekly, you have the option to budget every 4 weeks. This gives you unique opportunity to find "unused" money in your paycheck that results from having monthly bills. This is a better solution for people paid bi-weekly that experience the dreaded "third paycheck" in a monthly budgeting system. You can use that money pay off debts or save for future expenses.
+Si recibe un pago quincenal, tiene la opción de presupuestar cada 4 semanas. Esto le brinda la oportunidad única de encontrar dinero "sin usar" en su cheque de pago que resulta de tener facturas mensuales. Esta es una mejor solución para las personas que pagan quincenalmente que experimentan el temido "tercer sueldo" en un sistema de presupuesto mensual. Puede usar ese dinero para pagar deudas o ahorrar para gastos futuros.
 
-Additionally, for folks that are paid on an erratic basis, Budgetocity also offers a "custom" budget period that allows you to adjust each budget period to your unique circumstance.
+Además, para las personas que reciben pagos de forma irregular, Budgetocity también ofrece un período de presupuesto "personalizado" que le permite ajustar cada período de presupuesto a su circunstancia única.
 
-Budgetocity is based on the philosophy of **zero-based** budget. That is, every dollar you earn you should be accounted for in a budget. By building your budget around when you get paid, rather than when you have bills, you have the opportunity to properly utilize every dollar you earn. The goal is to tell your money where to go, rather than discovering where your money went.
+Budgetocity se basa en la filosofía del **presupuesto basado en cero**. Es decir, cada dólar que gana debe contabilizarse en un presupuesto. Al construir su presupuesto cuando le pagan, en lugar de tener facturas, tiene la oportunidad de utilizar adecuadamente cada dólar que gana. El objetivo es decirle a su dinero a dónde ir, en lugar de descubrir a dónde fue su dinero.
 
-## But that's just the beginning...
+## Pero eso es solo el comienzo...
 
-Budgetocity offers a variety of tools to help you get control of your money. This isn't fancy accounting software. This is simple, straight-forward budgeting with _**you**_ in mind.
+Budgetocity ofrece una variedad de herramientas para ayudarlo a controlar su dinero. Esto no es un software de contabilidad elegante. Este es un presupuesto sencillo y directo con _**usted**_ en mente.
 
-_Here are some highlights of the other features you will find in Budgetocity..._
+_Aquí hay algunos aspectos destacados de las otras características que encontrará en Budgetocity ..._
 
-### Planning
+### Planificación
 
-You can enter all your monthly expenses regardless of your budgeting plan. Armed with your expense information, Budgetocity can help you ensure that every bill gets paid.
+Puede ingresar todos sus gastos mensuales independientemente de su plan de presupuesto. Armado con su información de gastos, Budgetocity puede ayudarlo a asegurarse de que se paguen todas las facturas.
 
-As a bonus to those who budget every 4-weeks, you will discover that some expenses "fall between" budget periods. This is literally free money that you can use for paying off debt, saving for a vacation, etc.
+Como una bonificación para aquellos que hacen un presupuesto cada 4 semanas, descubrirá que algunos gastos "caen" entre los períodos presupuestarios. Esto es, literalmente, dinero gratis que puedes usar para pagar deudas, ahorrar para unas vacaciones, etc.
 
-### Budget Summary
+### Resumen del presupuesto
 
-If you budget with a significant-other, you need to stay informed of your more fluid expenses, like groceries or gas money. The summary gives you the ability to choose what you want to quickly see when you start Budgetocity.
+Si hace un presupuesto con un ser querido, debe mantenerse informado de sus gastos más fluidos, como alimentos o dinero para gasolina. El resumen le brinda la posibilidad de elegir lo que desea ver rápidamente cuando inicia Budgetocity.
 
-### Tagging
+### Etiquetado
 
-Tagging is an advanced feature of Budgetocity that allows you to apply tags to your spending. While each spending transaction has a "category", tags provide an additional dimension to your organization. Tagging is useful for folks that use multiple credit/debit cards or accounts to pay for items, but want to maintain a zero-based budget.
+El etiquetado es una función avanzada de Budgetocity que le permite aplicar etiquetas a sus gastos. Si bien cada transacción de gasto tiene una "categoría", las etiquetas proporcionan una dimensión adicional a su organización. El etiquetado es útil para las personas que usan múltiples tarjetas de crédito / débito o cuentas para pagar artículos, pero desean mantener un presupuesto basado en cero.
 
