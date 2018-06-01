@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Budgetocity!](README.md)
+* [Bienvenido a Budgetocity!](README.md)
 * [Welcome to Budgetocity!](welcome-to-budgetocity-1.md)
 * Getting Started
   * [Signing Up](getting-started/registering.md)
