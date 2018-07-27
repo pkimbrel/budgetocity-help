@@ -37,4 +37,3 @@ If you budget with a spouse or significant-other, you both need to stay informed
 ### Tagging
 
 Tagging is an advanced feature of Budgetocity that allows you to apply tags to your spending. While each spending transaction has a "category", tags provide an additional dimension to your organization. Tagging is useful for folks that use multiple credit/debit cards or accounts to pay for items, but want to maintain a zero-based budget.
-
