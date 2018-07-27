@@ -1,6 +1,6 @@
 # Signing Up
 
-To get registered Budgetocity, you will need to provide a little information.  You can change this information later if you find it is incorrect.
+To get registered with Budgetocity, you will need to provide a little information.  You can change this information later if you find it is incorrect.
 
 * Your name
 * Preferred user name
